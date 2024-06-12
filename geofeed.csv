@@ -1,3 +1,4 @@
 # prefix,country_code,region_code,city,postal
 2a0f:9400:611c::/48,KR,KR-11,Seoul,
 141.11.116.0/24,KR,KR-11,Seoul,
+2a0a:6044:b200::/40,KR,KR-11,Seoul,
